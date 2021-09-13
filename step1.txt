@@ -1,0 +1,3 @@
+bước 1: tại nhánh code cá nhân, thực hiện commit và check các commit của mình
+
+phần biệt giữa rebase và merge
