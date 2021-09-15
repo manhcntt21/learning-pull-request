@@ -22,3 +22,5 @@ da
 sd
 asd
 a
+
+xem thu khi chua pull thi bi lam sao
