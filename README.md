@@ -24,3 +24,5 @@ asd
 a
 
 xem thu khi chua pull thi bi lam sao
+
+lam lai rebase
